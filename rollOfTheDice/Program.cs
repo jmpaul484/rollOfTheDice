@@ -3,7 +3,7 @@
 //Fall 2026
 //Roll of the Dice
 //https://github.com/jmpaul484/rollOfTheDice.git
-namespace rollOfTheDice
+namespace RollOfTheDice
 {
     internal class Program
     {
